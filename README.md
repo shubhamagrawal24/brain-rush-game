@@ -3,7 +3,7 @@
 
 # Description:
   To play this game we need good concentration.
-  We have to match object which are moving in playing window with object at central position by pressing left mouse kay.
+  We have to match object which are moving in playing window with object at central position by pressing left mouse key.
   There are two types of object: Circle $ Square
 
 # Installation:
