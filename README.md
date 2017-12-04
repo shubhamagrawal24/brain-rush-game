@@ -1,5 +1,5 @@
 # BrainRush by Shubham Agrawal
-  BrainRush is a desktop game build in Java language. <br />
+  BrainRush is a desktop game build in Java language.
 
 # Description:
   To play this game we need good concentration. <br />
