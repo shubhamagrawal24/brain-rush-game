@@ -6,6 +6,9 @@
   We have to match object which are moving in playing window with object at central position by pressing left mouse key.
   There are two types of object: Circle $ Square
 
+# Project Contents:
+  Brainrush.java, Game.java, Sound.java, Circle.jpg, Music.wav, Beep.wav
+
 # Installation:
   Install the latest varsion of JDK & JRE
 
